@@ -16,6 +16,7 @@ with a Python FastAPI backend.
 - Pricing
 
 ## Live Demo
+https://main.d27sjdiix0hkum.amplifyapp.com/
 
 ## Run frontend locally
 cd frontend
